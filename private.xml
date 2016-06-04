@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<root>
+ <item>
+  <name>Logitech layout</name>
+  <identifier>private.LogitechLayout</identifier>
+   <!-- Level 3 chars in top row (numbers) -->
+   <autogen>
+   __KeyToKey__
+   KeyCode::1, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::N, ModifierFlag::OPTION_R | ModifierFlag::NONE
+   </autogen>
+   <autogen>
+   __KeyToKey__
+   KeyCode::2, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::QUOTE, ModifierFlag::OPTION_R | ModifierFlag::SHIFT_L | ModifierFlag::NONE
+   </autogen>
+   <autogen>
+   __KeyToKey__
+   KeyCode::3, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::QUOTE, ModifierFlag::OPTION_R | ModifierFlag::NONE
+   </autogen>
+
+   <autogen>
+   __KeyToKey__
+   KeyCode::7, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::BACKSLASH, ModifierFlag::OPTION_R | ModifierFlag::NONE
+   </autogen>
+
+
+   <!-- Level 3 chars in 2nd row (TAB) -->
+  <autogen>
+   __KeyToKey__
+   KeyCode::Q, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::MINUS, ModifierFlag::OPTION_R | ModifierFlag::NONE
+  </autogen>
+  <autogen>
+   __KeyToKey__
+   KeyCode::W, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::BACKQUOTE, ModifierFlag::OPTION_R | ModifierFlag::NONE
+  </autogen>
+  <!--<autogen>
+   __KeyToKey__
+   KeyCode::E, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::GERMAN_A_UMLAUT, ModifierFlag::SHIFT_L | ModifierFlag::NONE
+  </autogen> -->
+
+
+   <!-- Level 3 chars in 3rd row (CAPS LOCK) -->
+  <autogen>
+   __KeyToKey__
+   KeyCode::F, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::8, ModifierFlag::OPTION_R
+  </autogen>
+  <autogen>
+   __KeyToKey__
+   KeyCode::G, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::9, ModifierFlag::OPTION_R
+  </autogen> 
+  <autogen>
+   __KeyToKey__
+   KeyCode::SEMICOLON, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::4, ModifierFlag::SHIFT_L | ModifierFlag::OPTION_R
+  </autogen>
+
+
+   <!-- Level 3 chars in 4th row (SHIFT) -->
+  <autogen>
+   __KeyToKey__
+   KeyCode::DANISH_DOLLAR, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::Z, ModifierFlag::SHIFT_L | ModifierFlag::OPTION_R
+  </autogen>
+  <autogen>
+   __KeyToKey__
+   KeyCode::Z, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::X, ModifierFlag::SHIFT_L | ModifierFlag::OPTION_R
+  </autogen>
+  <autogen>
+   __KeyToKey__
+   KeyCode::X, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::3, ModifierFlag::SHIFT_L | ModifierFlag::OPTION_R
+  </autogen>
+  <autogen>
+   __KeyToKey__
+   KeyCode::C, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::1, ModifierFlag::OPTION_R
+  </autogen>
+  <autogen>
+   __KeyToKey__
+   KeyCode::V, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::Q, ModifierFlag::OPTION_R
+  </autogen>
+  <autogen>
+   __KeyToKey__
+   KeyCode::B, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::7, ModifierFlag::OPTION_R
+  </autogen>
+  <autogen>
+   __KeyToKey__
+   KeyCode::N, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::0, ModifierFlag::OPTION_R
+  </autogen>
+  <autogen>
+   __KeyToKey__
+   KeyCode::COMMA, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::DOT | ModifierFlag::OPTION_R
+  </autogen>
+  <autogen>
+   __KeyToKey__
+   KeyCode::SLASH, ModifierFlag::OPTION_R | ModifierFlag::NONE,
+   KeyCode::COMMA, ModifierFlag::SHIFT_L | ModifierFlag::OPTION_R
+  </autogen>
+
+ </item>
+</root>
