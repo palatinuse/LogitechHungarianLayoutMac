@@ -18,4 +18,4 @@ After some fiddling around with my external keyboard, the keyboard viewer applic
 
 ## Usage:
 
-Install [Karabiner](https://pqrs.org/osx/karabiner), and follow instructions on [How to add your own settings] (https://pqrs.org/osx/karabiner/document.html.en#privatexml). Overwrite the private.xml file with the one in this [repository](private.xml).
+Install [Karabiner](https://pqrs.org/osx/karabiner), and follow instructions on [How to add your own settings] (https://pqrs.org/osx/karabiner/document.html.en#privatexml). Overwrite the private.xml file with the one in this [repository](private.xml). Enjoy!
